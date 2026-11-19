@@ -21,7 +21,7 @@ summary: "One sentence that tells readers what your family's migration story is 
 
 # Main image: a photograph or object that introduces your family migration story.
 # Upload your image into the "images" folder next to this file, then type its file name below.
-lead-image: images/placeholder.svg
+lead-image: images/lease-image.jpg
 lead-image-alt: "Short description of the image for screen readers"
 lead-image-caption: "What the image shows, who is in it, and the source. Example: Maria and Jose Lopez outside their first apartment, Chicago, 1968. Courtesy of the Lopez family."
 
