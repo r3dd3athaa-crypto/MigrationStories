@@ -45,8 +45,7 @@ lead-image-caption: "What the image shows, who is in it, and the source. Example
   ============================================================
 {% endcomment %}
 
-This is a sample introduction. In a finished essay, this paragraph introduces readers to your family migration story:  naming who they are and their relationship to the student, why they moved, where they moved from and where they settled.It names the people and places and gives just enough background to make readers curious. A student would write about 100 to 120 words here. 
-
+Migration for many people is often driven by the hope of a better future. My father Armando Arreola left his home in Mexico at only eighteen years old due to limited economic opportunities. He decided he wanted to build a future for himself and improve both his own life as well as the lives of his parents. His story shows the courage, sacrifice, and the resilience in the pursuit of a better life. 
 ## Subheader 1: The Journey Historical context and impacts (4-8 words)
 
 This section draws upon secondary sources and class materials to explain how the fmaily migration journey relates to the wider history of migration. What broader economic, political, or social developments globally and locally motivated the decision to migrate?  What specific economic, political, and/or social factors encouraged your family to choose a particular destination? Be sure to draw on class readings and other secondary sources here and cite them in Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 
